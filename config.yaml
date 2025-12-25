@@ -1,2 +1,2 @@
-path: "decision_tree_model.joblib"
-features: ['x',  'y'] # You are allowed to add only two features.
+path: "my_model.joblib"
+features: ['bill_depth_mm',  'body_mass_g'] # You are allowed to add only two features.
